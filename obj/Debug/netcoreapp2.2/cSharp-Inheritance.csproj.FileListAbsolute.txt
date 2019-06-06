@@ -1,0 +1,11 @@
+/alidhobey/programming/nss/cohort31/Exercise/cSharp-Inheritance/obj/Debug/netcoreapp2.2/cSharp-Inheritance.csprojAssemblyReference.cache
+/alidhobey/programming/nss/cohort31/Exercise/cSharp-Inheritance/obj/Debug/netcoreapp2.2/cSharp-Inheritance.csproj.CoreCompileInputs.cache
+/alidhobey/programming/nss/cohort31/Exercise/cSharp-Inheritance/obj/Debug/netcoreapp2.2/cSharp-Inheritance.AssemblyInfoInputs.cache
+/alidhobey/programming/nss/cohort31/Exercise/cSharp-Inheritance/obj/Debug/netcoreapp2.2/cSharp-Inheritance.AssemblyInfo.cs
+/alidhobey/programming/nss/cohort31/Exercise/cSharp-Inheritance/bin/Debug/netcoreapp2.2/cSharp-Inheritance.deps.json
+/alidhobey/programming/nss/cohort31/Exercise/cSharp-Inheritance/bin/Debug/netcoreapp2.2/cSharp-Inheritance.runtimeconfig.json
+/alidhobey/programming/nss/cohort31/Exercise/cSharp-Inheritance/bin/Debug/netcoreapp2.2/cSharp-Inheritance.runtimeconfig.dev.json
+/alidhobey/programming/nss/cohort31/Exercise/cSharp-Inheritance/bin/Debug/netcoreapp2.2/cSharp-Inheritance.dll
+/alidhobey/programming/nss/cohort31/Exercise/cSharp-Inheritance/bin/Debug/netcoreapp2.2/cSharp-Inheritance.pdb
+/alidhobey/programming/nss/cohort31/Exercise/cSharp-Inheritance/obj/Debug/netcoreapp2.2/cSharp-Inheritance.dll
+/alidhobey/programming/nss/cohort31/Exercise/cSharp-Inheritance/obj/Debug/netcoreapp2.2/cSharp-Inheritance.pdb
