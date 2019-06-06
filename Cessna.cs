@@ -8,8 +8,8 @@ namespace cSharp_Inheritance
         public void RefuelTank() { }
 
         public override void Drive()
-        {
-            Console.WriteLine("Zooooom");
-        }
+    {
+        Console.WriteLine($"The {MainColor} Cessna flashes by you like herricane. Zzzzzoooooommmm!");
+    }
     }
 }

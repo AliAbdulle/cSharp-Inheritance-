@@ -6,13 +6,21 @@ namespace cSharp_Inheritance
     {
         static void Main(string[] args)
         {
-            Zero fxs = new Zero("Vrooom");
-            Tesla modelS = new Tesla();
-            Cessna mx410 = new Cessna();
+            Zero fxs = new Zero();
+            fxs.MainColor = "Midnight Blue";
 
-            // fxs.Drive();
-            // modelS.Drive();
-            // mx410.Drive();
+            Tesla modelS = new Tesla();
+            modelS.MainColor = "Burgundy";
+
+            Cessna mx410 = new Cessna();
+            mx410.MainColor = "White ";
+
+            Ram vol = new Ram();
+            vol.MainColor = "Silver ";
+
+            fxs.Drive();
+            //modelS.Drive();
+             mx410.Drive();
         }
     }
 }
