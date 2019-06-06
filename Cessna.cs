@@ -9,7 +9,7 @@ namespace cSharp_Inheritance
 
         public override void Drive()
     {
-        Console.WriteLine($"The {MainColor} Cessna flashes by you like herricane. Zzzzzoooooommmm!");
+        Console.WriteLine($"The {MainColor}Cessna flashes by you like herricane. Zzzzzoooooommmm!");
     }
     }
 }

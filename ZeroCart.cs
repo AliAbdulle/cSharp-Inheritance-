@@ -1,13 +1,13 @@
 using System;
 namespace cSharp_Inheritance{
-    public class Ram :Vehicle
+    public class ZeroCart : Vehicle
     {  // Electric motorcycle
     public double BatteryKWh { get; set; }
 
     public void RefuelTank () {  }
-     public override void Drive()
+    public override void Drive()
     {
-        Console.WriteLine($"The {MainColor}Ram growls by you like herricane. Rrrrrruuuuummmbbbble!");
+        Console.WriteLine($"The {MainColor} zero zip by you. Yeeeooooooowww!");
     }
 }
 }
