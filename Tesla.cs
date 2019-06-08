@@ -9,5 +9,14 @@ namespace cSharp_Inheritance{
     {
         Console.WriteLine($"The {MainColor} Tesla Blazes by you. MMmmmmmmmmmm!");
     }
+    public override void Turn()
+    {
+        Console.WriteLine($"The {MainColor} Tesla squeals around a right turn.");
+    }
+    public override void Stop()
+    {
+        Console.WriteLine($"The {MainColor} Tesla silently stop as if it never moved.");
+        Console.WriteLine("  ");
+    }
 }
 }

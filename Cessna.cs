@@ -11,5 +11,14 @@ namespace cSharp_Inheritance
     {
         Console.WriteLine($"The {MainColor}Cessna flashes by you like herricane. Zzzzzoooooommmm!");
     }
+     public override void Turn()
+    {
+        Console.WriteLine($"The vehicle cerfully turn right");
+    }
+        public override void Stop()
+    {
+        Console.WriteLine($"The {MainColor}Cessna roll down the runway for a mile and stop.");
+        Console.WriteLine("  ");
+    }
     }
 }

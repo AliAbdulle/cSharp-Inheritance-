@@ -22,10 +22,24 @@ namespace cSharp_Inheritance
             vol.MainColor = "Silver ";
 
             fxs.Drive();
+            fxs.Turn();
+            fxs.Stop();
+
             fxs1.Drive();
+            fxs1.Turn();
+            fxs1.Stop();
+
             modelS.Drive();
+            modelS.Turn();
+            modelS.Stop();
+
             mx410.Drive();
+            mx410.Turn();
+            mx410.Stop();
+
             vol.Drive();
+            vol.Turn();
+            vol.Stop();
         }
     }
 }
